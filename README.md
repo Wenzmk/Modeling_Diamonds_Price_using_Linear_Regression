@@ -1,5 +1,5 @@
 # Modeling_Diamonds_Price_using_Linear_Regression
-This is one of Bangkit Traning Program Project.
+This is one of Bangkit Training Program Project.
 Using Linear Regression to predict diamonds price.
 
 ### Required Libraries
